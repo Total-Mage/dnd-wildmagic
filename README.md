@@ -1,7 +1,7 @@
 # 🎲 D&D Wild Magic  
 
 A dynamic web-based tool for Dungeons & Dragons players and Dungeon Masters to explore and roll on the Wild Magic Surge table. This project showcases JavaScript development, interactive UI elements, and structured data handling.  
-
+Webpage accessible at: https://total-mage.github.io/dnd-wildmagic/
 ## 🚀 Features  
 
 ### 🎭 **Wild Magic Surge Rolls**  
